@@ -38,7 +38,7 @@ CREATE TABLE "t_area_base" (
 
 ## 许可
 
-[![GitHub](https://img.shields.io/github/license/neuz/cn_area)](LICENSE)
+[![GitHub](https://img.shields.io/github/license/neuz/cn_area?style=flat-square)](LICENSE)
 
 
 
