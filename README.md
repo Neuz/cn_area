@@ -38,7 +38,7 @@ CREATE TABLE "t_area_base" (
 
 ## 许可
 
-[MIT License](LICENSE) © 2021 Neuz
+[![GitHub](https://img.shields.io/github/license/neuz/cn_area)](LICENSE)
 
 
 
